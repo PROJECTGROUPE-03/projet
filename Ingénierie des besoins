@@ -1,0 +1,79 @@
+Présentation du projet
+Objectif
+       L’objectif de ce projet est d’offrir la possibilité à tous les étudiants de l’université de Maroua de louer une chambre dans la ville. En effet il est question pour nous de proposer une application web dans laquelle les étudiants vont se connecter et auront la possibilité de choisir une chambre en fonction de leur préférence sans se déplacer de chez eux
+
+Comment fonctionne cette application ?
+Le fonctionnement de ce cite respecte les étapes suivantes :
+ 
+Le client se connecte au site.
+Le système propose un formulaire 
+Le client remplit le formulaire puis soumet
+Le système propose des chambres 
+Le client choisi la chambre qui lui correspond et soumet
+L’application lui renvoie les informations nécessaires concernant le bailleur et la géolocalisation de la chambre
+Cible
+Ce projet cible principalement les étudiants de la ville de Maroua mais aussi, toutes autres personnes peuvent s’en servir.
+
+
+INGENERIE DES BESOINS
+RECEUIL DES BESOINS
+                  QUESTIONNAIRES 
+Dans quel quartier se trouve la chambre ou cité ?
+Comment avez-vous eu connaissance de cette chambre ou cité ?
+Quels sont les personnages qui vivent dans une cité ?
+Quels sont les rôles de chaque personnage de la cité ?
+Quels sont les difficultés que rencontrent les locataires ?
+Combien coute une chambre ?
+Quels sont les modalités de payement ?
+Comment payez-vous vos factures d’électricité et d’eau ?
+Quelle est votre relation avec le bailleur ?
+Quelle est votre relation avec vos voisins ?
+Quels avantages avez-vous d’être dans une cité ?
+Quels avantages avez-vous d’être dans une chambre à part ?
+
+                            REPONSES
+Makabaye, Domayo, Pitoiré, Palar etc…
+Agent immobilier, amis, voisin etc…
+Bailleur, locateurs, concierge 
+Les rôles que joue chaque personnage dans une cité sont : 
+ Le bailleur pour la plupart du temps c’est le propriétaire de la cité. Les rôles qu’il joue sont de : collecter son loyer par moi par trimestre ou par an selon son modalité de payement ; Superviser l’investissement humain de la cité ; Réceptionner la facture générale de la lumière dans la cité et la diviser entre les locataires ; proposer les chambres aux locataires ; proposer les contrats aux locataires ; délivrer le reçu de payement de loyer ; remettre la clé aux locataires 
+Les locataires sont ceux qui occupent les chambres. En effet avant d’occuper la chambre, ils ont dû : marcher dans les quartiers pour chercher la chambre, Rencontrer le bailleur ou le concierge après avoir trouvé ; Choisir la chambre à son gout ; Accepter ou refuser le contrat du bailleur ; Payer le loyer au bailleur
+Parmi les locataires, le bailleur délègue souvent une personne et lui attribue certaines taches bien précises. Nous allons l’appeler ici concierge. Les rôles de ce dernier sont de : collecter le loyer pour remettre au bailleur ; Superviser l’investissement humain de la cité ; Intercéder auprès du bailleur pour les doléances ou problèmes que rencontrent les locataires ; Réceptionner la facture générale de la lumière (et) ou eau de la cité et la divisée entre les locataires proposer les chambres aux locataires ; proposer les contrats aux locataires ; délivrer le reçu de payement de loyer ; remettre la clé aux locataires 
+Dans une cité les locataires peuvent rencontrer plusieurs difficultés. On peut citer entre autre :Les coupures de lumière ; Le manque d’eau ; Au cas où il n’y a qu’un seul compteur pour toute une cité, celui qui a le plus de d’appareils électroniques bénéficie sur celui qui a moins ; Les douches communes qui peuvent nuire à la santé des locataires ; Les problèmes avec les voisins (haute sonorité, trouble, bagarre, organisation des fêtes non désirées), Bailleur trop exigent par rapport à la date limite de payement, aux fréquentations des locataires et impose parfois sa religion ; les couvre-feu dans la cité ; l’insécurité .
+Pour savoir plus sur le prix de location des chambres dans une cité dans la ville de Maroua, nous nous sommes rendus dans les villages (les quartiers très loin de ville) et ville de Maroua. Dans les quartiers éloignés de la ville, Une chambre non moderne coute entre 8 à 9 mille francs, Une chambre moderne peut couter 12 à 15mille francs. Dans les villes et dans les périphéries de l’université, Une chambre non moderne coute entre 9 à 12 mille francs, Une chambre moderne peut couter 14 à 18 mille francs. La plupart des chambres moderne ont une caution de 10 à 20 dès la 1ère année.
+Les modalités de payement de loyer dans la ville de Maroua sont de diverses formes. On distingue : Le payement par mois : Ici le locataire et le bailleur signent un contrat dans lequel le locataire doit verser une somme d’argent chaque fin du mois, Le payement en deux tranches : Ici le locataire et le bailleur signent un contrat dans lequel le locataire doit verser une somme d’argent chaque semestre au bailleur, Le payement par an : Ici le locataire et le bailleur signent un contrat dans lequel le locataire doit verser une somme d’argent par an au bailleur.
+         NB : Il y’a des chambres qu’on paye 10/12 mois (le bailleur offre deux mois gratuit) et d’autres 12/12mois 
+Dans les cités, les bailleurs ou les concierges réceptionnent les factures générales de la lumière et ou eau et la divisée entre les locataires. Il peut arriver que les factures d’eau et d’électricité soient fixées par le bailleur ; on peut aussi avoir des cas où il y a un compteur individuel pour chaque locataire de la cité : dans ces cas chaque locataire règle sa facture.
+Avec le bailleur, les locateurs peuvent être des ami(e)s, des collègues de travail, des camarades, des frères, des sœurs, des copains, des copines, des parents, des grands parents etc… 
+Entre voisins, les locateurs peuvent être des ami(e)s, des camarades, des frères, des sœurs, des copains, des copines, etc… 
+Les étudiants qui louent dans une cité ont beaucoup d’avantages. On peut citer entre autres : Ils bénéficient d’une nouvelle famille ; la sécurité ; la découverte de nouvelles cultures (le dialecte, les nourritures ou mets traditionnels, le mode de vie, la diversité des traditions et religions) ; l’organisation des fêtes collectives.
+Dans une chambre les avantages qu’un locateur peut avoir sont :
+Pour un locataire qui loue une chambre à part, généralement le bailleur ne contrôle pas ses fréquentations ; pas de couvre-feu.
+
+                           ANALYSE DE BESOINS
+Dans le système de location d’une chambre dans une cité
+Les personnages et ses rôles dans une cité
+Dans une citer on peut trouver le bailleur, le locataire, le concierge. 
+ Les rôles du bailleur sont de :
+Collecter le loyer par moi par trimestre ou par an selon son modalité de payement ;  
+Superviser l’investissement humain de la cité ;
+ Réceptionner la facture générale de la lumière dans la cité et la diviser entre les locataires ; 
+Proposer les chambres aux locataires ; 
+Proposer les contrats de bail aux locataires ;
+ Délivrer le reçu de payement de loyer ; 
+Remettre la clé aux locataires 
+Les rôles des locataires sont :
+Trouver une chambre ;
+Participer aux réunions organisées dans la cité.
+Participer à l’investissement humain de la cité.
+Payer le loyer au bailleur 
+Régler ses factures d’eau et d’électricité.
+ 
+ Les rôles du concierge sont de :
+Collecter le loyer pour remettre au bailleur ;
+ Superviser l’investissement humain de la cité ;
+ Intercéder auprès du bailleur pour les doléances ou problèmes que rencontrent les locataires ;
+ Réceptionner la facture générale de la lumière (et) ou d’eau de la cité et la divisée entre les locataires proposer les chambres aux locataires ;
+ Proposer les contrats de bail aux locataires ;
+ Délivrer le reçu de payement de loyer ;
+ Remettre les clés de chambre aux locataires 
