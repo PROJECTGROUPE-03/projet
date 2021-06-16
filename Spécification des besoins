@@ -1,0 +1,20 @@
+C.	SPECIFICATION GENERALE DES BESOINS
+a.	Besoins fonctionnels
+1.	Les acteurs du système 
+-	L’administrateur du système
+-	Les locataires 
+2.	Les actions du système
+-	Fait la mise à jour du système
+-	Proposer les chambres aux locataires
+-	Proposer les contrats aux locataires
+-	Remplir le formulaire
+-	Choisir la chambre de son gout
+-	Accepter  ou refuser le contrat du bailleur
+
+
+
+b.	BESOINS NON FONCTIONNELS
+Les besoins non fonctionnels concernent tous les besoins qui ne sont pas directement lié au système. Ainsi on peut avoir :
+-	L’indisponibilité de l’électricité
+-	La compatibilité de l’application avec tous les navigateurs
+-	Interface lisible et facile à utiliser
