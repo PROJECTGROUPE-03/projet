@@ -1,0 +1,58 @@
+1.	Diagramme de classe
+o	Les objets sont :
+-	 locataire,
+-	 bailleur, 
+-	concierge, 
+-	chambre, 
+-	 cité.
+
+o	Les associations sont :
+-	Appartenir
+-	Associer
+-	Posséder
+-	Louer
+
+o	Contraintes d’intégrité :
+-	Un bailleur possède un ou plusieurs  chambres
+-	Une chambre a un et un  seul propriétaire
+-	Une chambre peut appartenir à une cité
+-	Un bailleur peut être un concierge
+-	Une cité peut avoir une ou plusieurs chambres
+-	Un locataire est associé à un et un seul bailleur
+-	Un locataire loue une ou plusieurs chambres
+-	Une chambre est louée par un et un seul locataire
+-	Un bailleur peut avoir plusieurs locataires
+ 
+                                       Diagramme de classe.
+
+2.	Diagramme de cas d’utilisation
+a.	Les acteurs du système
+
+-	Le bailleur
+-	Le concierge
+-	Locataire
+b.	Les cas d’utilisation
+o	Le locataire :
+-	Localiser une chambre
+-	Rencontrer le bailleur ou le concierge
+-	Choisir la chambre
+-	Accepter  ou refuser le contrat
+-	Payer le loyer
+
+o	Concierge :
+-	Proposer la chambre
+-	Proposer le contrat 
+-	Encaisser l’argent 
+-	Délivrer le reçu
+-	Remettre la clé  au locataire
+
+o	Le bailleur :
+-	Proposer la chambre
+-	Proposer le contrat
+-	Recevoir l’argent
+-	Délivrer le reçu
+-	Remettre la clé  au locataire 
+
+
+
+                                              Diagramme de cas d’utilisation
